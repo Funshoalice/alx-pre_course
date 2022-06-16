@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "School"
+
+sh: 1: /bin/bash:wq: not found
