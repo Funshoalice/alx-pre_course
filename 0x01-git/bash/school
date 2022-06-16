@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "School"
-
+echo "The school is open"
 sh: 1: /bin/bash:wq: not found
